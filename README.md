@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Federico (@FGP310592) from Italy
+- 👀 I’m interested in engineering, specifically in controls and modelling
+- 🌱 I’m currently learning the permanent magnet synchronous motor control, finite element method solver development, etc.
+- 💞️ I’m looking to collaborate with any contents creator
+- 📫 Connect with me by e-mail writing to fedegp3105@gmail.com
